@@ -1,5 +1,5 @@
 # ilove-you-virus
-it is a virus made in note using (batch file programming)
+
 @echo off 
 
 color a 
