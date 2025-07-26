@@ -1,3 +1,5 @@
+/index.html
+/ilove-you-virus.bat
 
 
 @echo off 
